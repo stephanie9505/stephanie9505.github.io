@@ -6,7 +6,6 @@ excerpt: "Explanation with one sentence."
 project: true
 tag:
 - test
-comments: true
 ---
 
 # Header 1
