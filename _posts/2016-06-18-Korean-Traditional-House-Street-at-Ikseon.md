@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-date: 2012-05-22
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
-comments: true
+title: "Korean Traditional House Street at Ikseon"
+date: 2016-06-18
+excerpt: "동서양의 만남."
+tags: [Traditional House]
 ---
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+# 익선동 한옥거리
+서울특별시 종로구 익선동에 위치한 한옥거리는 북촌이나 서촌의 한옥마을과는 사뭇 다른 매력을 풍기고 있다. 흔히 알려진 북촌과 서촌의 한옥마을은 평일과 주말에 관계없이 사람들이 모이나 익선동 한옥거린 평일에는 주변에서 흔히 볼 수 있는 우리네의 동네와 다른점이 별로 없다.
 
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
